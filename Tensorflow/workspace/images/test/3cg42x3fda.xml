@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>3cg42x3fda.jpg</filename>
+	<path>C:\Users\Marek\Downloads\1rf5egu54drwe\ovbrsxki\test\3cg42x3fda.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lyzka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>81</ymin>
+			<xmax>305</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>123123.jpg</filename>
+	<path>C:\Users\Marek\Downloads\1rf5egu54drwe\ovbrsxki\test\123123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>457</width>
+		<height>777</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Widelec</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>413</ymin>
+			<xmax>278</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

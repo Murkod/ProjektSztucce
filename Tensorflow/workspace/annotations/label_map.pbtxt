@@ -1,0 +1,12 @@
+item { 
+	name:'Widelec'
+	id:1
+}
+item { 
+	name:'Noz'
+	id:2
+}
+item { 
+	name:'Lyzka'
+	id:3
+}

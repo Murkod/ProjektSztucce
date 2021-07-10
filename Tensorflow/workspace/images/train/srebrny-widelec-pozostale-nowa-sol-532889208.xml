@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>srebrny-widelec-pozostale-nowa-sol-532889208.jpg</filename>
+	<path>C:\Users\Marek\Downloads\1rf5egu54drwe\ovbrsxki\train\srebrny-widelec-pozostale-nowa-sol-532889208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Widelec</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>135</ymin>
+			<xmax>368</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

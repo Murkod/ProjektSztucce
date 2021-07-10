@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>197622306_487908959146864_7008931137497407020_n.jpg</filename>
+	<path>C:\Users\Marek\Downloads\1rf5egu54drwe\ovbrsxki\train\197622306_487908959146864_7008931137497407020_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1532</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lyzka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>272</ymin>
+			<xmax>902</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>
